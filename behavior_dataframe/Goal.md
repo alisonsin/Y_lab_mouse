@@ -11,16 +11,17 @@ DataFrames for 1) Timestamp ;  2) Sampling [ i)1s  ii) 1ms ]
    I. timestamps  II. volume  III.autorewarded
         (in ms)       5/10/20       TRUE 
 
+- 1) Audio timestamp 
+
 
 
 To do:
 
-
 - 2) Lick Sampling dataframe
 
-- 1) Audio timestamp 
 - 2) Audio Sampling
 
+- uniform Dataframe
 
 
 
