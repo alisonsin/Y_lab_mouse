@@ -6,12 +6,18 @@ DataFrames for 1) Timestamp ;  2) Sampling [ i)1s  ii) 1ms ]
 
 To do:
 - 1) Lick timestamp dataframe
+   I. timestamps
+       (in ms)
+
 - 2) Lick Sampling dataframe
 
 - 1) Audio timestamp 
 - 2) Audio Sampling
 
-- figure out how to get each reward delivery
+- Reward dataframe
+   I. timestamps  II. volume  III.autorewarded
+        (in ms)       5/10/20       TRUE 
+
 
 
 
