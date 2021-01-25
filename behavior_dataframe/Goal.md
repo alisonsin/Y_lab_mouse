@@ -6,6 +6,11 @@ DataFrames for 1) Timestamp ;  2) Sampling [ i)1s  ii) 1ms ]
 - 1) Lick timestamp dataframe [session.licks]
    I. timestamps
        (in ms)
+       
+- Reward dataframe
+   I. timestamps  II. volume  III.autorewarded
+        (in ms)       5/10/20       TRUE 
+
 
 
 To do:
@@ -16,9 +21,6 @@ To do:
 - 1) Audio timestamp 
 - 2) Audio Sampling
 
-- Reward dataframe
-   I. timestamps  II. volume  III.autorewarded
-        (in ms)       5/10/20       TRUE 
 
 
 
