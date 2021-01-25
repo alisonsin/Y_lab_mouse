@@ -3,11 +3,13 @@ DataFrames for 1) Timestamp ;  2) Sampling [ i)1s  ii) 1ms ]
 *Done*
 - 2) Sampling in 1ms for rotary encoder data [session.runningspeed]
 
-
-To do:
-- 1) Lick timestamp dataframe
+- 1) Lick timestamp dataframe [session.licks]
    I. timestamps
        (in ms)
+
+
+To do:
+
 
 - 2) Lick Sampling dataframe
 
