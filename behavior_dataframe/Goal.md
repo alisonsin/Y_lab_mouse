@@ -16,13 +16,9 @@ DataFrames for 1) Timestamp ;  2) Sampling [ i)1s  ii) 1ms ]
 
 
 To do:
-
-- 2) Lick Sampling dataframe
-
-- 2) Audio Sampling
-
-- uniform Dataframe
-
+1) fix licks (use round())
+2) turn digital data into continuous binary 000001111
+3) raster plot lick data!
 
 
 
